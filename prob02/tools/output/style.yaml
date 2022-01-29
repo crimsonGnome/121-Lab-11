@@ -1,0 +1,22 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/lab-11-crimsonGnome/prob02/raindrop.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''raindropPtr'''
+      FilePath:        rainstorm.cc
+      FileOffset:      1712
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''raindropPtr'''
+      FilePath:        rainstorm.cc
+      FileOffset:      1785
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''raindropPtr'''
+      FilePath:        rainstorm.cc
+      FileOffset:      1858
+      Replacements:    []
+...
